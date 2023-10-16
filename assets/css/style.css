@@ -72,12 +72,12 @@ h2,h3 {
     margin: 30px auto;
 }
 
-#correct-score {
+#score {
     color: green;
     font-weight: bold;
 }
 
-#Incorrect {
+#incorrect {
     color: red;
     font-weight: bold;
 }
