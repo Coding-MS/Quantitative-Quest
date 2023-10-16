@@ -11,5 +11,16 @@ p {
     padding-left:10px;
     padding-right:10px; 
 }
+h2,h3 {
+    text-decoration: underline;
+}
+
+.section-about {
+    background-color: bisque;
+}
+
+.section-maths {
+    background-color: rgb(7, 241, 183);
+}
 
 
