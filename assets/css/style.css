@@ -127,7 +127,7 @@ h2,h3 {
     transition: all 0.5s;
 }
 btn-lg::after{
-    content: attr (data-type); 
+    content: attr('data-type'); 
     font-size:1rem; 
     color:#445361; 
     position: relative;
@@ -263,5 +263,3 @@ btn-lg::after{
     .question-area {
         padding: 10px 0;
     }
-
-
