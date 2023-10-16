@@ -126,8 +126,8 @@ h2,h3 {
     margin: 0 30px;
     transition: all 0.5s;
 }
-btn-lg::after{
-    content: attr('data-type'); 
+.btn-lg::after{
+    content: attr(data-type); 
     font-size:1rem; 
     color:#445361; 
     position: relative;
